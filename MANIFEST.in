@@ -1,0 +1,2 @@
+recursive-include meggie_simpleplugin *
+global-exclude *.pyc
