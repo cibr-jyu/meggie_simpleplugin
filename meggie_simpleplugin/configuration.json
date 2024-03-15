@@ -1,6 +1,7 @@
 {
     "id": "meggie_simpleplugin",
-    "name": "The most simple possible meggie plugin",
+    "name": "Simple plugin",
+    "description": "Showcase a simple plugin structure",
     "author": "CIBR",
     "tabs": [
         {
